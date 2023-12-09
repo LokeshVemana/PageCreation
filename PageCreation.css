@@ -1,0 +1,95 @@
+img.DP{
+        border-radius:100px;
+        position: relative;
+        margin: 20px;
+        bottom: 130px;
+}
+h1{
+    color: blue;
+    margin: 250px;
+    position: relative;
+    bottom: 490px;
+}
+p{
+    color:black;
+    margin: 250px;
+    position:relative;
+    bottom:730px;
+}
+button{
+   
+    position: relative;
+    bottom:1008px;
+    left:660px;
+    padding:10px;
+    color: whitesmoke;
+    background-color: blue;
+}
+hr{
+    position: relative;
+    bottom:1000px;
+}
+nav a {
+    background-color: blue;
+    color: bisque;
+    padding: 2px;
+    text-decoration: none;
+    position: relative;
+    bottom:1000px;
+    margin-left: 70px;  
+}
+select{
+    background-color: blue;
+    color: bisque;
+    position: relative;
+    bottom:1000px;
+    margin-left: 80px; 
+}
+div{
+    position: relative;
+    bottom:1430px;
+    left:280px;
+}
+.Search{
+    padding-left:20px;
+
+}
+aside{
+    border-radius: 20px;
+    padding: 4px;
+    position: relative;
+    bottom:1000px;
+    height:40vh;
+    width: 40vh;
+    background-color: whitesmoke;
+    justify-content: space-between;
+    flex-direction: column;
+    /* display: inline; */
+}
+img.Figure{
+    border-radius: 50px;
+    position: relative;
+    bottom:1200px;
+    left: 500px;
+}
+img.Photo{
+   border-radius: 50px;
+    position: relative;
+    bottom:1200px;
+    left: 500px;
+}
+body{
+    background-color:greenyellow;
+}
+.Name{
+    position: relative;
+    bottom:1200px;
+    left: 500px;
+}
+iframe{
+    position: relative;
+    bottom:1200px;
+    left:300px;
+}
+
+
